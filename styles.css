@@ -20,8 +20,9 @@ header {
     left: 0;
     right: 0;
     height: 200px;
-
 }
+
+
 
 nav {
     background-color: #D8EE95;
@@ -88,4 +89,12 @@ button {
 
 .email1 {
     margin-top: 20px;
+}
+
+.useful {
+    display: grid;
+    width: 1200px;
+    height: 110vh;
+    grid-template-rows: 20px 400px;
+    row-gap: 100px;
 }
